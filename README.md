@@ -2,7 +2,7 @@
 This project examines employee attrition using a dataset of **300+ employee records**.  
 The dashboard helps HR and leadership quickly identify high-risk segments and drivers of turnover across departments, tenure, demographics, and compensation.
 
-
+![Image](https://github.com/user-attachments/assets/d1b6d5ca-07ba-40a3-9e6f-cfc3e92ac9f3)
 
 ## 🎯 Objectives
 - Identify major factors driving employee attrition  
@@ -10,14 +10,11 @@ The dashboard helps HR and leadership quickly identify high-risk segments and dr
 - Provide an interactive tool for HR to perform drill-down analysis using slicers  
 - Deliver actionable insights to improve retention strategies
 
-
-
 ## 🛠 Tools & Technologies
 - **Excel** — Data cleaning & preprocessing  
 - **Power Query** — Transformations and shaping data  
 - **Power BI Desktop** — Interactive visualizations and dashboard design  
 - **Charts Used:** KPI cards, bar charts, stacked bars, line charts, matrix, slicers
-
 
 ## 📊 Dashboard Features
 - **Top-level KPIs:** Total Employees, Attrition Count, Avg Years at Company, Avg Monthly Income, Avg Training Time  
